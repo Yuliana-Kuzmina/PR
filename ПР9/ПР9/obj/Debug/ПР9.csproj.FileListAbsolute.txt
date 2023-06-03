@@ -1,0 +1,23 @@
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe.config
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.pdb
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.Form1.resources
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.Properties.Resources.resources
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.exe
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.pdb
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\GraphicsEditor.Form1.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\GraphicsEditor.Form1.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.MainForm.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.exe
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\obj\Debug\ПР9.pdb
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\bin\Debug\ПР9.exe.config
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\bin\Debug\ПР9.exe
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов\Горелов ПР\Практические\ПР9\ПР9\bin\Debug\ПР9.pdb
