@@ -1,0 +1,17 @@
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.exe.config
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.exe
+C:\Users\Hello\source\repos\ПР8\ПР8\bin\Debug\ПР8.pdb
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.Form1.resources
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.Properties.Resources.resources
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.exe
+C:\Users\Hello\source\repos\ПР8\ПР8\obj\Debug\ПР8.pdb
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.csproj.AssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.csproj.SuggestedBindingRedirects.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.Form1.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.exe
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Горелов ПР\Практические\ПР8\ПР8\obj\Debug\ПР8.pdb
