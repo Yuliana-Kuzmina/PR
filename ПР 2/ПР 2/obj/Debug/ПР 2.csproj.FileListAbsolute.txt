@@ -1,0 +1,11 @@
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\bin\Debug\ПР 2.exe.config
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\bin\Debug\ПР 2.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\bin\Debug\ПР 2.pdb
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.csproj.AssemblyReference.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР_2.Form1.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР_2.Properties.Resources.resources
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.csproj.GenerateResource.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.csproj.CoreCompileInputs.cache
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.exe
+C:\Users\79065\Desktop\Пр горелова\ПР 2\ПР 2\obj\Debug\ПР 2.pdb
